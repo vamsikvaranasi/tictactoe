@@ -447,8 +447,6 @@ def tic_tac_toe():
 
 
 # In[12]:
-
-
-init()
-tic_tac_toe()
-
+if __name__ == "__main__"
+    init()
+    tic_tac_toe()
