@@ -6,6 +6,7 @@
 
 #    Author:    Vamsi Varanasi
 #    Date:      08-APRIL-2020
+#    Python version: Python 3.x
 
 #importing stuff we need
 from random import randint
